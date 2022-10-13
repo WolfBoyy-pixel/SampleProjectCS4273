@@ -2,9 +2,10 @@
 
 Participants:
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Leader: [Phạm Thành Đạt - 20521175]
+- Member: [Nguyễn Nhất Thưởng - 20522000]
+- Member: [Thiều Huy Hoàng - 20521350]
+- Member: [Nguyễn Quang Vy - 20522181]
 
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
